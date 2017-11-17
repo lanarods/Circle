@@ -1,2 +1,3 @@
 # Circle
 Malik p. 719 ex.4
+Every circle has a center and a radius. Given the radius, we can determine the circle’sareaandcircumference.Giventhecenter,wecandetermineitspositionin the x-y plane. The center of a circle is a point in the x-y plane. Design the class Circle that can store the radius and center of the circle. Because the center is a point in the x-y plane and you designed the class to capture the properties of a point in Programming Exercise 3, you must derive the class Circle from the class Point. You should be able to perform the usual operations on a circle, suchassettingtheradius,printingtheradius,calculatingandprintingtheareaand circumference, and carrying out the usual operations on the center. 
